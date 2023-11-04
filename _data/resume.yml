@@ -10,18 +10,18 @@ photo: "assets/img/photo.jpg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "youremail@example.com" #文本内容
-  href: 'mailto:youremail@example.com' #链接，无链接则空  
+  href: 'mailto:pureliulh@163.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "1234567890"
-  href: 'tel:1234567890'
+  href: 'tel:17817726608'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
-  icon: 'icons/web.svg'
-- text: "GitHubID"
-  href: 'https://github.com/NewFuture'
-  icon: "icons/github.svg"
-  attr: 'target="_blank"' #新标签页打开
+# - text: "your-website.com"
+#   href: 'http://your-website.com'
+#   icon: 'icons/web.svg'
+# - text: "GitHubID"
+#   href: 'https://github.com/NewFuture'
+#   icon: "icons/github.svg"
+#   attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
   #   icon: "icons/location.svg"
 
